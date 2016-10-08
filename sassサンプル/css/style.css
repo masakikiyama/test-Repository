@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+    word-break:break-all;
+    background-color: aquamarine;
+}
+
+/*ヘッダー*/
+
+header{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+.header-title-menu {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/*ヘッダー*/
+
+/*トップ画像*/
+
+.main-photo{
+    width: 100%;
+    vertical-align: middle;
+}
+
+/*トップ画像*/
+
+/*一段目*/
+
+.first-contents {
+
+}
+
+.first-article {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ffd399;
+    height: 200px;
+}
+
+.second-article {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ebfeff;
+    height: 200px;
+    display: none;
+}
+
+/*一段目*/
+
+/*二段目*/
+
+.second-contents {
+    background-color: #d1f7f7;
+}
+
+.first-article2 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff5e8;
+    height: 200px;
+}
+
+.second-article2 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ebfeff;
+    height: 200px;
+}
+
+/*二段目*/
+
+/*三段目*/
+
+.third-contents {
+
+}
+
+.first-article3 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff5e8;
+    height: 200px;
+}
+.second-article3 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ebfeff;
+    height: 200px;
+}
+
+/*三段目*/
+
+/*フッタ―*/
+
+footer {
+    background-color: dimgray;
+}
+
+.footer-menu {
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}
+
+/*フッタ―*/
