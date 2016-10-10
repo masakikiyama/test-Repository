@@ -1,0 +1,11 @@
+@mixin backred{
+    background-color: #ff8989;
+}
+
+body{
+    background-color: aqua;
+}
+
+%font{
+    font-family: 'Quicksand', sans-serif;
+}
