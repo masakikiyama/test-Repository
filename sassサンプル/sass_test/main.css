@@ -290,4 +290,38 @@ footer {
   text-align: center;
   margin-top: 20px; }
 
+/*.test-section{
+    background-color: aqua;
+}
+.test-box {
+    background-color:aquamarine;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items:baseline;
+}
+
+.test-p {
+    width: 30px;
+    height: 50px;
+    background-color: azure;
+    border: 1px solid #000;
+    flex-grow: 1;
+}
+
+.grow2{
+    flex-grow: 3;
+    height: 70px;
+    padding-top: 20px;
+    width: 70px;
+    padding-left: 50px;
+}
+.grow3{
+    flex-grow: 4;
+    height: 100px;
+    padding-top: 30px;
+}*/
+
 /*# sourceMappingURL=main.css.map */
